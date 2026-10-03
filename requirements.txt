@@ -1,0 +1,26 @@
+# Core
+fastapi
+uvicorn[standard]
+pymongo
+kafka-python
+python-dotenv
+requests
+bcrypt
+
+# ML / Forecasting
+tensorflow==2.17.0
+torch
+prophet
+scikit-learn
+pandas
+numpy
+scipy
+statsmodels
+python-multipart
+
+# Visualization
+plotly
+matplotlib
+
+# Optional Utils
+joblib
